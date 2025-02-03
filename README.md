@@ -1,2 +1,2 @@
 # Toddometer-Kotiln
-Pedometer for AndroidOS built foy my father, Todd
+Pedometer for AndroidOS built for my father, Todd
